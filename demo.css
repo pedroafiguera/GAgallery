@@ -1,0 +1,15 @@
+#container {
+  position: relative;
+  width: 300px;
+  height: 250px;
+  overflow: hidden;
+}
+
+#strip {
+  position: relative;
+  width: 1200px;
+}
+
+img {
+  float: left;
+}
